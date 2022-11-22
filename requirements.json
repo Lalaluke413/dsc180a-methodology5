@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "lalaluke413/dsc180a-methodology5:latest",
+    "build-script": "python3 run.py testdata"
+}
